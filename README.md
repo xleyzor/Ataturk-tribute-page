@@ -6,6 +6,6 @@
 <p>🏹 07.08.2023</p>
 <p>🏹 <a href="https://ataturk-tribute-page.vercel.app/" target="_blank">Live URL</a></p>
 
+![Ekran Görüntüsü 2023-08-07 18 43 44](https://github.com/xleyzor/Ataturk-tribute-page/assets/122406455/e7744ffc-582c-40f3-93ec-1276710aed98)
 
-![Ekran Görüntüsü 2023-08-07 18 14 50](https://github.com/xleyzor/Ataturk-tribute-page/assets/122406455/80d07c42-fef8-4d8f-b7a2-273816d3ce7e)
 
