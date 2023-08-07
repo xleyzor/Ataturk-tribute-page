@@ -12,6 +12,7 @@
 
 body {
   width: 100%;
+  scroll-behavior: smooth;
 }
 
 main {
@@ -202,6 +203,29 @@ section {
   overflow: hidden;
 }
 
+footer {
+  width: 100%;
+  padding: 2rem;
+  background-color: rgba(0, 0, 0, 0.2);
+  box-shadow: -0px 0px 10px rgba(0, 0, 0, 0.5);
+}
+footer .container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+footer .container p {
+  color: #000;
+  font-size: 1.2rem;
+}
+footer .container p a {
+  color: blue;
+  text-decoration: none;
+}
+
+footer .container p a:hover {
+  text-decoration: underline;
+}
 @media (max-width: 765px) {
   .container {
     flex-direction: column;
